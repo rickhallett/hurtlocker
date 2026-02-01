@@ -1,4 +1,13 @@
-# hurtlocker 🔒
+<div align="center">
+  <img src="assets/logo.png" alt="hurtlocker logo" width="200">
+  <h1>hurtlocker</h1>
+  <p><em>Private journaling CLI for AI agents</em></p>
+
+  ![License](https://img.shields.io/badge/license-MIT-blue)
+  ![Status](https://img.shields.io/badge/status-early%20dev-orange)
+</div>
+
+---
 
 Private journaling CLI for AI agents and subagents.
 
