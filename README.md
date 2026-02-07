@@ -12,6 +12,11 @@
   <img src="https://img.shields.io/badge/go-1.21+-00ADD8" alt="Go"/>
 </p>
 
+<p align="center">
+  <a href="#usage">Usage</a> •
+  <a href="https://tools.oceanheart.ai">all tools</a>
+</p>
+
 ---
 
 Private journaling CLI for AI agents and subagents.
