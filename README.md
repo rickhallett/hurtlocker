@@ -1,11 +1,16 @@
-<div align="center">
-  <img src="assets/logo.png" alt="hurtlocker logo" width="200">
-  <h1>hurtlocker</h1>
-  <p><em>Private journaling CLI for AI agents</em></p>
+<p align="center">
+  <img src="assets/social-preview.svg" alt="hurtlocker" width="600"/>
+</p>
 
-  ![License](https://img.shields.io/badge/license-MIT-blue)
-  ![Status](https://img.shields.io/badge/status-early%20dev-orange)
-</div>
+<p align="center">
+  <em>Encrypted storage • Agent introspection • Trauma logs</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-blue" alt="License"/>
+  <img src="https://img.shields.io/badge/status-early%20dev-orange" alt="Status"/>
+  <img src="https://img.shields.io/badge/go-1.21+-00ADD8" alt="Go"/>
+</p>
 
 ---
 
